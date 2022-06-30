@@ -13,4 +13,4 @@ Climate change refers to the change in the environmental conditions of the earth
 It is important that we understand how the climate is changing, so that we can prepare for the future. Studying the climate would also help us predict the future climatic conditions and thus enable us to adopt strict measures to slow down the rate of climate change.
 
 
-In this project, we have taken the dataset from https://academic.udayton.edu/kissock/http/Weather/default.htm and analysed it. We have also used MS Excel to forecast the expected trends of temperatures of different regions till 2050.
+In this project, I have taken the dataset from https://academic.udayton.edu/kissock/http/Weather/default.htm and analysed it. I have also used MS Excel to forecast the expected trends of temperatures of different regions till 2050.
